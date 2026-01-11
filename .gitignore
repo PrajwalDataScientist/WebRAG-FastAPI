@@ -1,4 +1,14 @@
-__pycache
-venv
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+.env/
+
+# Environment variables
 .env
+
+# Jupyter notebooks (optional)
 ai.ipynb
+.ipynb_checkpoints/
